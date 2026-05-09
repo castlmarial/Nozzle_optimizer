@@ -31,13 +31,15 @@
 ## ⚙️ Installation
 본 프로그램을 실행하기 위해서는 Python 3.9 이상의 환경이 필요합니다. 가상 환경 활성화 후 아래 명령어를 통해 필수 패키지를 설치하십시오.
 
-Bash
+```Bash
 pip install streamlit numpy scipy matplotlib pandas xlsxwriter
+```
 ## 🚀 Quick Start
 터미널에서 아래 명령어를 실행하여 웹 기반 GUI 대시보드를 시작합니다.
 
-Bash
+```Bash
 streamlit run app.py
+```
 ## 📊 Outputs & Visualizations
 시뮬레이션을 실행하면 다음 결과가 대시보드에 즉각 렌더링됩니다.
 
