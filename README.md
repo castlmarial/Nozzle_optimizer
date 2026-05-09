@@ -4,7 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B.svg)
 ![SciPy](https://img.shields.io/badge/SciPy-solve__ivp-8CAAE6.svg)
 
-본 프로젝트는 엄격한 추진제 질량 제한(ex. KNSB 400g) 규정 하에서 고체 로켓의 비행 고도를 극대화하기 위한 **노즐 형상 자동 최적화 및 비행 동역학 시뮬레이터**입니다. 
+본 프로젝트는 추진제 질량 제한(KNSB 400g) 규정 하에서 고체 로켓의 비행 고도를 극대화하기 위한 **노즐 형상 자동 최적화 및 비행 동역학 시뮬레이터**입니다. 
 
 사용자는 Streamlit 대시보드를 통해 고정된 그레인(Grain) 제원과 케이싱의 최대 허용 압력을 입력하고, 모터 파열 한계를 넘지 않으면서 추력을 극한으로 끌어올리는 최적의 노즐 목(Throat)과 팽창비(Expansion Ratio)를 산출할 수 있습니다.
 
