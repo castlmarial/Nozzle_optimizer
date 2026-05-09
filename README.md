@@ -43,10 +43,10 @@ streamlit run app.py
 ## 📊 Outputs & Visualizations
 시뮬레이션을 실행하면 다음 결과가 대시보드에 즉각 렌더링됩니다.
 
-Optimization Metrics: 도출된 최적 노즐 목 직경(Dt), 예상 최고 고도, 최고 챔버 압력.
-Dynamic Charts: 시간에 따른 고도(Altitude), 속도(Velocity), 챔버 압력(Chamber Pressure), 추력(Thrust) 변화 추이 그래프 (다크모드 최적화).
-Excel Report: Design_Input, Output_Data, Raw_Time_Data 시트로 깔끔하게 포맷팅된 종합 엔지니어링 리포트 다운로드.
+* **Optimization Metrics: 도출된 최적 노즐 목 직경(Dt), 예상 최고 고도, 최고 챔버 압력.
+* **Dynamic Charts: 시간에 따른 고도(Altitude), 속도(Velocity), 챔버 압력(Chamber Pressure), 추력(Thrust) 변화 추이 그래프 (다크모드 최적화).
+* **Excel Report: Design_Input, Output_Data, Raw_Time_Data 시트로 깔끔하게 포맷팅된 종합 엔지니어링 리포트 다운로드.
 
 ## 🧑‍💻 Maintainer
-Developed by: PARK SEONG-JAE, Propulsion Team Leader, KARS2026
-Focus Area: Mechatronics Engineering, Control Systems, Solid Propulsion System Design & Numerical Modeling.
+* **Developed by: PARK SEONG-JAE, Propulsion Team Leader, KARS2026
+* **Focus Area: Mechatronics Engineering, Control Systems, Solid Propulsion System Design & Numerical Modeling.
