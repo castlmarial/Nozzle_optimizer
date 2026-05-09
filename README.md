@@ -27,17 +27,17 @@
 ├── flight.py      # RocketFlightSim & NozzleOptimizer: 1-DOF 비행 해석 및 최대 고도 탐색 알고리즘
 └── physics.py     # ISA 표준 대기 모델 및 마하 수 루트 파인딩(Root-finding) 물리 유틸리티
 
-⚙️ Installation
+## ⚙️ Installation
 본 프로그램을 실행하기 위해서는 Python 3.9 이상의 환경이 필요합니다. 가상 환경 활성화 후 아래 명령어를 통해 필수 패키지를 설치하십시오.
 
 Bash
 pip install streamlit numpy scipy matplotlib pandas xlsxwriter
-🚀 Quick Start
+## 🚀 Quick Start
 터미널에서 아래 명령어를 실행하여 웹 기반 GUI 대시보드를 시작합니다.
 
 Bash
 streamlit run app.py
-📊 Outputs & Visualizations
+## 📊 Outputs & Visualizations
 시뮬레이션을 실행하면 다음 결과가 대시보드에 즉각 렌더링됩니다.
 
 Optimization Metrics: 도출된 최적 노즐 목 직경(Dt), 예상 최고 고도, 최고 챔버 압력.
@@ -46,7 +46,7 @@ Dynamic Charts: 시간에 따른 고도(Altitude), 속도(Velocity), 챔버 압�
 
 Excel Report: Design_Input, Output_Data, Raw_Time_Data 시트로 깔끔하게 포맷팅된 종합 엔지니어링 리포트 다운로드.
 
-🧑‍💻 Maintainer
+## 🧑‍💻 Maintainer
 Developed by: Propulsion Team Leader, KARS2026
 
 Focus Area: Mechatronics Engineering, Control Systems, Solid Propulsion System Design & Numerical Modeling.
